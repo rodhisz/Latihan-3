@@ -1,0 +1,26 @@
+body{
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    font-family: 'Nunito', sans-serif;
+}
+.form-label{
+    font-weight: bold;
+}
+.tag-p{
+    margin-top: -9px;
+    color: rgb(151, 151, 151);
+}
+.btn-primary{
+    width: 100%;
+    background-color: #00BFA6;
+    border: none;
+}
+@media(max-width: 932px){
+    .display-none{
+        display: none !important;
+    }
+}
+.akun a{
+    text-decoration: none;
+}
